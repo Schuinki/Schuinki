@@ -1,43 +1,44 @@
-# Olá, eu sou o Rafael Schuinki! 👋
+# Hi there, I'm Rafael Schuinki! 👋
 
 ---
 
-## 🏛️ Sobre Mim
+## 🏛️ About Me
 
-* 🎓 **Educação:** Estudante do último ano de Engenharia de Computação/Software no **IME (Instituto Militar de Engenharia)**, com formatura prevista para este ano (2026)!
-* 💼 **Experiência Recente:** Trabalhei como Estagiário de Engenharia de Software na **Inoa Sistemas**.
-  * Atuei na manutenção e desenvolvimento do módulo *AT-Compliance* e na migração para o ecossistema *BrokerTools*.
-  * Tive experiência prática nas células de *Portfolio Solutions* e *Obligations Solutions*.
+* 💼 **Current Role:** Software Developer at **BTG Pactual**
+* 🎓 **Education:** Senior Software Engineering student at **IME (Instituto Militar de Engenharia)**, graduating this year (2026)!
+* 💼 **Past Experience:** Worked as a Software Engineering Intern at **Inoa Sistemas**.
+  * Maintained and developed the *AT-Compliance* module and assisted in the migration to the *BrokerTools* ecosystem.
+  * Gained hands-on experience within the *Portfolio Solutions* and *Obligations Solutions* cells.
 
 ---
 
-## 📜 Certificações & Estudos
+## 📜 Certifications & Continuous Learning
 
-Busco sempre alinhar tecnologia de ponta com o mercado financeiro e arquitetura de sistemas:
-* 📈 **ANBIMA CPA** (Certificação Profissional Anbima)
+I thrive on learning at the intersection of technology, finance, and system architecture:
+* 📈 **ANBIMA CPA** (Certificado Profissional Anbima)
 * ☁️ **AWS Certified Cloud Practitioner**
-* 📚 Constantemente estudando e me preparando para novos desafios em múltiplas áreas da tecnologia.
+* 📚 Currently studying and preparing for upcoming challenges in multiple fields!
 
 ---
 
-## 🛠️ Tecnologias & Competências
+## 🛠️ Tech Stack & Skills
 
-| Categoria | Tecnologias / Status |
+| Category | Role / Status |
 | :--- | :--- |
-| **Back-end** | Desenvolvimento e manutenção de sistemas robustos (Linguagem Principal) |
-| **Arquitetura** | Aperfeiçoando habilidades de design de sistemas e escalabilidade |
-| **Cloud** | AWS (Certified Cloud Practitioner) |
-| **Controle de Versão** | Git / GitHub |
+| **Backend** | Daily driver for robust system development and maintenance |
+| **Architecture** | Leveling up and mastering system design and scalability |
+| **Cloud Infrastructure** | AWS (Certified Cloud Practitioner) |
+| **Version Control** | Git / GitHub |
 
 ---
 
-## 🧠 Desafios de Código
+## 🧠 Coding Challenges
 
-* 🥷 **LeetCode:** Acompanhe minha jornada de resolução de problemas e evolução em algoritmos no meu perfil: [leetcode.com/u/Schuinki](https://leetcode.com/u/Schuinki)
+* 🥷 **LeetCode:** Track my problem-solving journey and algorithm progress at [leetcode.com/u/Schuinki](https://leetcode.com/u/Schuinki)
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🤝 Connect with me
 
-* 💼 **LinkedIn:** [LinkedIn de Rafael Schuinki](https://www.linkedin.com/in/rafael-schuinki) *(insira o link do seu perfil aqui)*
-* 📧 **E-mail:** [rafaelschuinki@outlook.com](mailto:rafaelschuinki@outlook.com)
+* 💼 **LinkedIn:** [Rafael Schuinki on LinkedIn](https://www.linkedin.com/in/rafaelschuinki)
+* 📧 **Email:** [rafaelschuinki@outlook.com](mailto:rafaelschuinki@outlook.com)
